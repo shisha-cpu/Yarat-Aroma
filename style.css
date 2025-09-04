@@ -727,4 +727,7 @@ a{
     .wholesale-text ul {
         text-align: left;
     }
+    .opt .section-title{
+        font-size: 20px;
+    }
 }
